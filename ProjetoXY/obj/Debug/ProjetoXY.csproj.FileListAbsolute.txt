@@ -22,3 +22,16 @@ D:\Go\ProjetoXY\ProjetoXY\obj\Debug\ProjetoXY.exe
 D:\Go\ProjetoXY\ProjetoXY\obj\Debug\ProjetoXY.pdb
 D:\Go\ProjetoXY\ProjetoXY\obj\Debug\ProjetoXY.FrmMedia.resources
 D:\Go\ProjetoXY\ProjetoXY\obj\Debug\ProjetoXY.FrmPrincipal.resources
+C:\Users\Aluno\Desktop\CSharp\ProjetoXY\bin\Debug\ProjetoXY.exe.config
+C:\Users\Aluno\Desktop\CSharp\ProjetoXY\bin\Debug\ProjetoXY.exe
+C:\Users\Aluno\Desktop\CSharp\ProjetoXY\bin\Debug\ProjetoXY.pdb
+C:\Users\Aluno\Desktop\CSharp\ProjetoXY\obj\Debug\ProjetoXY.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\CSharp\ProjetoXY\obj\Debug\ProjetoXY.frmCursos.resources
+C:\Users\Aluno\Desktop\CSharp\ProjetoXY\obj\Debug\ProjetoXY.FrmLogin.resources
+C:\Users\Aluno\Desktop\CSharp\ProjetoXY\obj\Debug\ProjetoXY.FrmSpash.resources
+C:\Users\Aluno\Desktop\CSharp\ProjetoXY\obj\Debug\ProjetoXY.FrmMedia.resources
+C:\Users\Aluno\Desktop\CSharp\ProjetoXY\obj\Debug\ProjetoXY.FrmPrincipal.resources
+C:\Users\Aluno\Desktop\CSharp\ProjetoXY\obj\Debug\ProjetoXY.Properties.Resources.resources
+C:\Users\Aluno\Desktop\CSharp\ProjetoXY\obj\Debug\ProjetoXY.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\CSharp\ProjetoXY\obj\Debug\ProjetoXY.exe
+C:\Users\Aluno\Desktop\CSharp\ProjetoXY\obj\Debug\ProjetoXY.pdb

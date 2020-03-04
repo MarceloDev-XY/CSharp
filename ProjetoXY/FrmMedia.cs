@@ -24,16 +24,16 @@ namespace ProjetoXY
 
         private void btnMedia_Click(object sender, EventArgs e)
         {
-            float valor1, valor2, valor3, media;
+            Double valor1, valor2, valor3, media;
 
-            valor1 = Convert.ToInt32(txtAvUm.Text);
-            valor2 = Convert.ToInt32(txtAvDois.Text);
-            valor3 = Convert.ToInt32(txtAvTres.Text);
+            valor1 = Convert.ToDouble(txtAvUm.Text);
+            valor2 = Convert.ToDouble(txtAvDois.Text);
+            valor3 = Convert.ToDouble(txtAvTres.Text);
 
 
             media = (valor1 + valor2 + valor3) / 3;
 
-            lblMedia.Text = Convert.ToString(media);
+            
 
 
             if (media >= 7)
@@ -59,7 +59,12 @@ namespace ProjetoXY
             txtAvDois.Clear();
             txtAvTres.Clear();
 
-            lblMedia.Text = (" ");
+           
+        }
+
+        private void lblMedia_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

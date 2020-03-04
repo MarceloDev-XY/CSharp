@@ -39,7 +39,6 @@
             this.lblAvTres = new System.Windows.Forms.Label();
             this.btnMedia = new System.Windows.Forms.Button();
             this.btnLimpar = new System.Windows.Forms.Button();
-            this.lblMedia = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnSair
@@ -131,22 +130,12 @@
             this.btnLimpar.UseVisualStyleBackColor = true;
             this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
             // 
-            // lblMedia
-            // 
-            this.lblMedia.AutoSize = true;
-            this.lblMedia.Location = new System.Drawing.Point(199, 186);
-            this.lblMedia.Name = "lblMedia";
-            this.lblMedia.Size = new System.Drawing.Size(61, 13);
-            this.lblMedia.TabIndex = 14;
-            this.lblMedia.Text = "Media Final\r\n";
-            // 
             // FrmMedia
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(442, 337);
-            this.Controls.Add(this.lblMedia);
             this.Controls.Add(this.btnLimpar);
             this.Controls.Add(this.btnMedia);
             this.Controls.Add(this.lblAvTres);
@@ -180,6 +169,5 @@
         private System.Windows.Forms.Label lblAvTres;
         private System.Windows.Forms.Button btnMedia;
         private System.Windows.Forms.Button btnLimpar;
-        private System.Windows.Forms.Label lblMedia;
     }
 }
